@@ -6,7 +6,6 @@ A curated collection of web fonts for web projects, including popular fonts like
 
 - Gilroy
 - Instrument Sans
-- [Add any other fonts you include]
 
 ## Usage
 
